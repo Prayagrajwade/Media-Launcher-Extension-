@@ -3,9 +3,9 @@
     "name" : "Quick Launcher",
     "description" : "Launch your app quickly",
     "version": "1.0.0",
-    "icon":{"128":"images.jfif"},
+    "icon":{"128":"images1.png"},
     "browser_action":{
-        "default_icon":"images.jfif",
+        "default_icon":"images.png",
         "default_popup":"popup.html"
     },
 
